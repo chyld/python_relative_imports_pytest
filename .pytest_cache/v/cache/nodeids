@@ -1,0 +1,5 @@
+[
+  "pack/test/test_fn1.py::test_add",
+  "pack/test/test_fn2.py::test_add_sub",
+  "pack/test/test_fn3.py::test_add_and_sub_complex"
+]
